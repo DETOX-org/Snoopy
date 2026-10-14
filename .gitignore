@@ -1,0 +1,35 @@
+# Android Studio & Gradle
+.gradle/
+build/
+*/build/
+app/build/
+.idea/
+*.iml
+*.apk
+*.aab
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Node & Web
+node_modules/
+dist/
+coverage/
+.npm
+.eslintcache
+
+# Environment & OS
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+
+# Keep Context & Agent Rules Tracked
+!.context/
+!.context/**
+!.agents/
+!.agents/**
+!docs/
+!docs/**
